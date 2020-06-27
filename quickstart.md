@@ -75,8 +75,8 @@ If everything goes well, your terminal console output will look like following :
     ...
     Loading the accounts and waiting for the node to mine the transactions...
     (1) Waiting for receipts...
-    Sending 10000 TRX to TSjfWSWcKCrJ1DbgMZSCbSqNK8DsEfqM9p
-    Sending 10000 TRX to THpWnj3dBQ5FrqW1KMVXXYSbHPtcBKeUJY
+    Sending 10000 TRX to TYBRW3wGSb2PJTVkQvfony7yWoQ3CETLMb
+    Sending 10000 TRX to THdfqvzzdNFnmeKxggBa5vQ4vqfLZDT5hD
     Sending 10000 TRX to TWFTHaKdeHWi3oPoaBokyZFfA7q1iiiAAb
     Sending 10000 TRX to TFDGQo6f6dm9ikoV4Rc9NyTxMD5NNiSFJD
     Sending 10000 TRX to TDZZNigWitFp5aE6j2j8YcycF7DVjtogBu
